@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=PAUL%20SHERVIN%20P&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20System%20Architect%20%7C%20Builder&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=PRANAV%20BHARGAV%20M&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20System%20Architect%20%7C%20Builder&descAlignY=58&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Multi-Agent+%26+Autonomous+Systems+Builder+%F0%9F%9A%80;Semantic+Segmentation+%7C+Path+Planning+%7C+Spatial+AI+%F0%9F%A7%A0;Java+DSA+%7C+Python+ML+%7C+Full+Stack+Dev+%F0%9F%92%BB;Currently+Building+SentinelChat+%F0%9F%8C%8A" alt="Typing SVG" />
