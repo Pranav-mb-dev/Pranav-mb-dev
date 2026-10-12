@@ -16,6 +16,7 @@
 </div>
 
 ---
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Pranav-mb-dev&theme=tokyonight)](https://github.com/Pranav-mb-dev)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.pranav_7._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PranavBhargavM) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Gocode) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gocode1010@gmail.com) 
