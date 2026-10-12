@@ -28,8 +28,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Pranav-mb-dev&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-mb-dev&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 🌱Currently learning : 
-Backend system design concepts including database modeling, authentication & authorization,    transaction management, caching strategies, and scalability considerations using Java and Spring Boot.
+# Current Work: 
+🔭 FinMind: Spring Boot, FastAPI, LangChain, Qdrant, live on GCP
+🌱 Building agentic AI projects:
+AutoAudit: autonomous SEC filing change monitor
+ToolMesh: MCP-powered ops agent with a live dashboard
+SupportOS: multi-agent GitHub issue triage
 ---
 [![](https://visitcount.itsvg.in/api?id=Pranav-mb-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
