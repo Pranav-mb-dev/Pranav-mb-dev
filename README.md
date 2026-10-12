@@ -31,9 +31,9 @@
 # Current Work: 
 🔭 FinMind: Spring Boot, FastAPI, LangChain, Qdrant, live on GCP
 🌱 Building agentic AI projects:
-AutoAudit: autonomous SEC filing change monitor
-ToolMesh: MCP-powered ops agent with a live dashboard
-SupportOS: multi-agent GitHub issue triage
+# AutoAudit: autonomous SEC filing change monitor
+# ToolMesh: MCP-powered ops agent with a live dashboard
+# SupportOS: multi-agent GitHub issue triage
 ---
 [![](https://visitcount.itsvg.in/api?id=Pranav-mb-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
