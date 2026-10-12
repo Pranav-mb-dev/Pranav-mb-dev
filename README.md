@@ -20,11 +20,10 @@
 <a href="https://stack.rajinkhan.com/?i=springboot%2Cfastapi%2Clangchain%2Clanggraph%2Cqdrant%2Cn8n%2Cgooglegemini%2Cgooglecloud%2Cdocker%2Credis%2Cpostgresql%2Cpostman%2Cgit%2Cmysql%2Csupabase%2Crailway%2Crender%2Cvercel%2Ctailwindcss%2Cclaudecode%2Cgradio%2Cllamaindex%2Cgroq%2Cc%2Cpython%2Cjavascript%2Creact&t=transparent&s=fast"><img src="https://stack.rajinkhan.com/v1/stack.svg?i=springboot%2Cfastapi%2Clangchain%2Clanggraph%2Cqdrant%2Cn8n%2Cgooglegemini%2Cgooglecloud%2Cdocker%2Credis%2Cpostgresql%2Cpostman%2Cgit%2Cmysql%2Csupabase%2Crailway%2Crender%2Cvercel%2Ctailwindcss%2Cclaudecode%2Cgradio%2Cllamaindex%2Cgroq%2Cc%2Cpython%2Cjavascript%2Creact&t=transparent&s=fast" alt="Tech stack: Spring Boot, FastAPI, LangChain, LangGraph, Qdrant, n8n, Google Gemini, Google Cloud, Docker, Redis, PostgreSQL, Postman, Git, MySQL, Supabase, Railway, Render, Vercel, Tailwind CSS, Claude Code, Gradio, LlamaIndex, Groq, C, Python, JavaScript, React"></a>
 
 
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Pranav-mb-dev&theme=tokyonight)](https://github.com/Pranav-mb-dev)
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.pranav_7._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PranavBhargavM) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Gocode) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gocode1010@gmail.com) 
+
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Pranav-mb-dev&theme=tokyonight)](https://github.com/Pranav-mb-dev)
 
 
 # 📊 GitHub Stats:
