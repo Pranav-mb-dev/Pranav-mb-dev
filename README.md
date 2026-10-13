@@ -33,6 +33,7 @@
 
 # Current Work: 
 🔭 FinMind: Spring Boot, FastAPI, LangChain, Qdrant, live on GCP
+
 🌱 Building agentic AI projects:
    * AutoAudit: autonomous SEC filing change monitor
    * ToolMesh: MCP-powered ops agent with a live dashboard
