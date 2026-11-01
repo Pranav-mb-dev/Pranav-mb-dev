@@ -26,10 +26,7 @@
 [![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Pranav-mb-dev&theme=tokyonight)](https://github.com/Pranav-mb-dev)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pranav-mb-dev&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pranav-mb-dev&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-mb-dev&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
     
